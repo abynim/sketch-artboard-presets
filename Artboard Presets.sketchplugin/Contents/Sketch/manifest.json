@@ -1,0 +1,20 @@
+{
+  "author": "Aby Nimbalkar",
+  "commands": [
+    {
+      "script": "script.js",
+      "handler": "loadPresets",
+      "name": "Load Presets",
+      "identifier": "loadPresets"
+    }
+  ],
+  "menu": {
+    "title": "Artboard Presets",
+    "items": ["loadPresets"]
+  },
+  "identifier": "com.abynim.sketchplugins.artboard-presets",
+  "version": "1.0",
+  "description": "Makes Artboard Presets available via the menu",
+  "authorEmail": "",
+  "name": "Artboard Presets"
+}
